@@ -1,0 +1,184 @@
+h1 {
+    color: darkred;
+    text-align: center;
+}
+
+h2 {
+    color: darkgreen;
+    text-align: center;
+}
+
+.info h1{
+    text-align: start;
+}
+
+.info h2{
+    text-align: start;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+body {
+    background-color: darkgrey;
+}
+
+.links1 {
+    position: relative;    
+    margin: 20px;
+}
+
+.links1 h2{
+    color: orangered;
+}
+
+.links2 h2{
+    color: orangered;
+}
+
+.links1 img {
+    opacity: 0.13;
+}
+
+.links1:hover img{
+    opacity: 1;
+}
+
+.img1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.links2 {
+    position: relative;    
+    margin: 20px;
+    justify-content: space-around;
+}
+
+.links2 img {
+    opacity: 0.13;
+    justify-content: space-around;
+}
+
+.links2:hover img{
+    opacity: 1;
+}
+
+.links2 h2 {
+    text-align: start;
+}
+
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #000000;
+    padding: 60px;
+}
+
+.links h1 {
+    color: powderblue;
+}
+
+.cent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: darkgrey;
+}
+
+.cent1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: darkgrey;
+}
+
+.cent2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: darkgrey;
+}
+
+.cent3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: darkgrey;
+}
+
+.cent4 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: darkgrey;
+}
+
+.cent5 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: darkgrey;
+}
+
+.image1 {
+    justify-content: flex-end;
+    margin-left: 550px;
+}
+
+.cent4 h2 {
+    color: mediumblue;
+}
+
+.cent5 h2 {
+    color: mediumblue;
+}
+
+a:link {
+    color: aqua;
+}
+
+a:visited {
+    color: chartreuse;
+}
+
+.require {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.require h2 {
+    text-align: start;
+    color: teal;
+}
+
+.require1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.require1 h1 {
+    text-align: start;
+    color: teal;
+}
+
+.hi {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.hi h1 {
+    color: #000000;
+}
+
+
+.head h1{
+    color: darkgreen;
+}
